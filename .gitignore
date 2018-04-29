@@ -1,0 +1,10 @@
+# Leiningen
+/target/
+/.lein-*
+/.nrepl-port
+
+# Gorilla REPL
+/.gorilla-port
+
+# Huri
+/Rplots.pdf
